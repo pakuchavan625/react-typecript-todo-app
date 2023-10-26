@@ -1,0 +1,8 @@
+
+
+.line-through{
+  text-decoration: line-through;
+}
+.active-link {
+  color: red; /* Change the color to your preferred color */
+}
